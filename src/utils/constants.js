@@ -1,0 +1,7 @@
+const VALID_CHECK_VALUES = ["YES", "NO", "PENDING"];
+const VALID_STATUSES = ["RECEIVED", "REJECTED"];
+
+module.exports = {
+  VALID_CHECK_VALUES,
+  VALID_STATUSES,
+};
